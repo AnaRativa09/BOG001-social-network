@@ -18,7 +18,7 @@ export const exit = () => {
 /* ------ SEND EMAIL -------*/
 const sendEmail = () => {
   const config = {
-    url: 'https://tatianatorog.github.io/BOG001-social-network/',
+    url: 'https://anarativa09.github.io/BOG001-social-network/',
   };
   const user = firebase.auth().currentUser;
   user
