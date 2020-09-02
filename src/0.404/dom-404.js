@@ -14,7 +14,7 @@ if (user) { // User is signed in.
   });
   
 } else { // No user is signed in.
-  noFoundBtn.textContent= "login"
+  noFoundBtn.textContent= "Inicia sesión y antojate"
   noFoundBtn.addEventListener('click', () => {
     window.location.hash = '#/login';
   
