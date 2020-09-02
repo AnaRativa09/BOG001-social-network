@@ -7,9 +7,16 @@ window.addEventListener('hashchange', () => {
   router(window.location.hash);
 });
 
+if (window.location.hash === '')
+window.addEventListener('load', () => {
+  setTimeout(() => {
+    window.location.hash ='#/login';
+  }, 5000);
+});
+
 /* ------ Button active -------*/
 window.addEventListener('hashchange', () => {
-
+ 
   // Mobile
   const iconHomeMob = document.querySelector('#icon-home-mob');
   const iconFilterMob = document.querySelector('#icon-filter-mob');
