@@ -70,7 +70,7 @@ En nuestro proyecto recibimos feedback de nuestras compañeras, equipo de Labora
 * [x] Uso ES modules ([`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 | [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export))
 * [ ] Diferenciar entre expression y statements.
-* [ ] Diferenciar entre tipos de datos primitivos y no primitivos.
+* [x] Diferenciar entre tipos de datos primitivos y no primitivos.
 * [x] [Uso de callbacks.](https://developer.mozilla.org/es/docs/Glossary/Callback_function)
 * [x] [Consumo de Promesas.](https://scotch.io/tutorials/javascript-promises-for-dummies#toc-consuming-promises)
 
@@ -99,7 +99,7 @@ En nuestro proyecto recibimos feedback de nuestras compañeras, equipo de Labora
 * [x] [Firestore.](https://firebase.google.com/docs/firestore)
 * [x] [Firebase Auth.](https://firebase.google.com/docs/auth/web/start)
 * [ ] [Firebase security rules.](https://firebase.google.com/docs/rules)
-* [ ] Observadores. ([onAuthStateChanged](https://firebase.google.com/docs/auth/web/manage-users?hl=es#get_the_currently_signed-in_user))
+* [x] Observadores. ([onAuthStateChanged](https://firebase.google.com/docs/auth/web/manage-users?hl=es#get_the_currently_signed-in_user))
 * [x] Observadores. ([onSnapshot](https://firebase.google.com/docs/firestore/query-data/listen#listen_to_multiple_documents_in_a_collection))
 
 ### UX
