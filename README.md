@@ -4,16 +4,25 @@
 
 ## Índice
 
-* [1. Definición del producto](#1-definición-del-producto)
-* [2. Historia de usuarios](#2-historia-de-usuarios)
-* [3. Prototipos](#3-prototipos)
-* [4. Feedback](#4-feedback)
-* [5. Objetivos de aprendizaje](#5-objetivos-de-aprendizaje)
+* [1. Demo](#1-demo)
+* [2. Definición del producto](#2-definición-del-producto)
+* [3. Historia de usuarios](#3-historia-de-usuarios)
+* [4. Prototipos](#4-prototipos)
+* [5. Feedback](#5-feedback)
+* [6. Objetivos de aprendizaje](#6-objetivos-de-aprendizaje)
 
-## 1. Definición del producto
+---
+
+## 1. Demo
+https://anarativa09.github.io/BOG001-social-network/#/login
+
+- Correo: usuariolaboratoria@gmail.com
+- Contraseña: contraseña
+
+## 2. Definición del producto
 Red social para amantes de la comida. En Leratto podrás compartir y encontrar recomendaciones gastronómicas de la ciudad. Publica la mejor foto de tu plato, calificar por calidad y precio. 
 
-## 2. Historia de usuarios
+## 3. Historia de usuarios
 - H1: Yo como usuario amante de la comida quiero registrarme en una red social para ser miembro de Leratto.
 - H2: Yo como usuario amante de la comida quiero loguearme en la red social para compartir y encontrar recomendaciones gastronómicas.
 - H3: Yo como usuario amante de la comida quiero crear posts por medio de texto e imagen para compartir mis experiencias gastronómicas.
@@ -22,7 +31,7 @@ Red social para amantes de la comida. En Leratto podrás compartir y encontrar r
 - H6: Yo como usuario amante de la comida quiero dar like a posts para reaccionar a otras publicaciones.
 
 
-## 3. Prototipos
+## 4. Prototipos
 
 #### Paleta de colores
 <p align="center"> <img src="src/images/readme-img/paletta_Leratto.png" width="500"> </p>
@@ -40,10 +49,10 @@ En nuestra paleta de colores, existe un contraste de colores calidos con colores
 ##### Web
 <p align="center"> <img src="src/images/readme-img/Web_Login.jpg" width="500" style="margin:10px"> <img style="margin:10px" src="src/images/readme-img/Web_Signup.jpg" width="500"> <img style="margin:10px" src="src/images/readme-img/Web_Home.png" width="500"> <img style="margin:10px" src="src/images/readme-img/Web_Post.png" width="500"></p>
 
-## 4. Feedback
+## 5. Feedback
 En nuestro proyecto recibimos feedback de nuestras compañeras, equipo de Laboratoria y diferentes usuarios potenciales de nuestra app. En los diferentes comentarios nos recomendaron aumentar el tamaño de la tipografía, botones y diagramación de textos en las tarjetas de post.
 
-## 5. Objetivos de aprendizaje
+## 6. Objetivos de aprendizaje
 
 ### HTML y CSS
 
